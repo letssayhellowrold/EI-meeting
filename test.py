@@ -1,1 +1,1 @@
-import STAGATE_pyG
+import STAGATE
